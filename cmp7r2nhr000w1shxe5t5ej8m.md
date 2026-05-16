@@ -5,7 +5,7 @@ seoDescription: "Lottery wheeling explained simply: how a structured set of tick
 datePublished: 2026-05-16T02:51:45.139Z
 cuid: cmp7r2nhr000w1shxe5t5ej8m
 slug: what-is-lottery-wheeling
-cover: https://cdn.hashnode.com/uploads/covers/6a067116baf09db7a65289f0/ce5909f1-f38f-4fa1-9e76-8b5eb7c5705c.svg
+cover: https://cdn.hashnode.com/uploads/covers/6a067116baf09db7a65289f0/98627f15-4e03-412f-9167-a93dccda1c92.png
 tags: lottery, mega-millions, powerball
 
 ---
