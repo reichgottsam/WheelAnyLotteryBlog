@@ -6,6 +6,7 @@ datePublished: 2026-05-16T02:51:45.139Z
 cuid: cmp7r2nhr000w1shxe5t5ej8m
 slug: what-is-lottery-wheeling
 cover: https://cdn.hashnode.com/uploads/covers/6a067116baf09db7a65289f0/98627f15-4e03-412f-9167-a93dccda1c92.png
+ogImage: https://cdn.hashnode.com/uploads/og-images/6a067116baf09db7a65289f0/f4612b44-cabf-41ae-a133-4f59dad5769a.png
 tags: lottery, mega-millions, powerball
 
 ---
