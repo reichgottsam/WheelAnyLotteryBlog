@@ -59,7 +59,7 @@ With Permutations off, wheeling 5 digits in a Pick 3 game produces 10 combinatio
 
 That's the full commit version of a digit hunch: *I think the winning digits are in this set, and I want the straight prize if I'm right.*
 
-It's also a meaningful cost consideration. Sixty tickets at standard wager amounts adds up. The preview count is there precisely for this reason — WAL shows you the ticket count before you generate, so you can decide whether full permutation coverage fits your budget for this play, or whether box coverage at a subset of your digits makes more sense.
+It's also a meaningful cost consideration. Sixty tickets at standard wager amounts adds up. The preview count is there precisely for this reason — WAL shows you the ticket count before you play your pics, so you can decide whether full permutation coverage fits your budget for this play, or whether box coverage at a subset of your digits makes more sense.
 
 The toggle is yours to use or ignore on any given play. Some players wheel without permuting when they're less certain about order. Others run the full wheel-plus-permute combination when they're committing. The app doesn't make that call for you.
 
@@ -95,7 +95,7 @@ That's the honest version. It's the only version worth playing on.
 
 The digit picker and wheeling are available on Wheel Any Lottery's Free tier — no account upgrade needed to generate a wheeled ticket set and see your costs before you commit. To save your picks and log tickets to history so you can track what's working over time, that's Pro.
 
-Set up a Custom Lottery for your game, head to the Setup tab, enter your digits, and see what the wheel produces. The preview count shows you exactly how many unique combinations you're looking at before you generate.
+Set up a Custom Lottery for your game, head to the Setup tab, enter your digits, and see what the wheel produces. The preview count shows you exactly how many unique combinations you're looking at before you set your wagers.
 
 [**Open Wheel Any Lottery →**](https://app.wheelanylottery.com)
 
