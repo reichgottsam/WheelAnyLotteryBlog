@@ -29,7 +29,7 @@ On the Setup tab for a Pick 3 lottery, you enter a row of digits. If you enter e
 
 ![](https://cdn.hashnode.com/uploads/covers/6a067116baf09db7a65289f0/885c306c-c2d0-449d-8639-89cc431237e6.png align="center")
 
-You can also enter multiple rows. One row might be five digits you feel strongly about. Another might be a fixed three-digit play you always run. WAL processes each row, eliminates duplicates across all of them, and passes the final unique combination set to the Tickets tab. A live preview count updates as you type, so before you hit Generate you can see "12 unique tickets" — no surprises.
+You can also enter multiple rows. One row might be five digits you feel strongly about. Another might be a fixed three-digit play you always run. WAL processes each row, eliminates duplicates across all of them, and passes the final unique combination set to the Tickets tab. A live preview count updates as you type, so before you hit Play you can see "10 tickets" — no surprises.
 
 The result is a complete, structured expression of your hunch. Instead of committing to three digits out of five and hoping the other two don't show up, you've covered every possible three-digit arrangement of your chosen set. If the winning digits are anywhere in your five, one of your tickets boxes the draw.
 
